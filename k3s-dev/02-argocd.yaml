@@ -29,7 +29,7 @@ spec:
       repositories:
         artur-repo:
           url: https://github.com/OvcharenkoArtur/kube
-          name: Ovcharenko Artur
+          name: k3s-dev
           type: git
 
       secret:
