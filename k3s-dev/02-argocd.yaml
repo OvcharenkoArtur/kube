@@ -29,7 +29,7 @@ spec:
       repositories:
         artur-repo:
           url: https://github.com/OvcharenkoArtur/kube
-          name: bigkaa
+          name: Ovcharenko Artur
           type: git
 
       secret:
